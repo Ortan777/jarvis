@@ -8,6 +8,8 @@ Jarvis is a Python-based voice assistant that can listen to your commands, answe
 
  Web Search (DuckDuckGo) – Answers general knowledge questions in short sentences.
 
+ write in notepad - Jarvis opens Notepad and starts writing everything you say into it until you stop.
+
  Task Memory – Tell Jarvis to “remember that I have to go to college tomorrow”, and later ask “what do I have to do tomorrow?”.
 
 ## System Control:
