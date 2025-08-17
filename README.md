@@ -16,6 +16,10 @@ Get time and battery status
 
 Adjust brightness and volume
 
- ## App Control – Open and close apps like Chrome, YouTube, Notepad, etc.
+ ## App Control :
+ 
+ Open and close apps like Chrome, YouTube, Notepad, etc.
 
- ## Exit – Shut down Jarvis with “exit” or “quit”.
+ ## Exit :
+ 
+ Shut down Jarvis with “exit” or “quit”.
