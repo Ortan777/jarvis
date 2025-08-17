@@ -1,4 +1,4 @@
-#Jarvis AI – Voice Assistant
+# Jarvis AI – Voice Assistant
 
 Jarvis is a Python-based voice assistant that can listen to your commands, answer questions, open/close applications, control system settings, and even remember tasks for you.
 
@@ -16,6 +16,6 @@ Get time and battery status
 
 Adjust brightness and volume
 
- ##App Control – Open and close apps like Chrome, YouTube, Notepad, etc.
+ ## App Control – Open and close apps like Chrome, YouTube, Notepad, etc.
 
- ##Exit – Shut down Jarvis with “exit” or “quit”.
+ ## Exit – Shut down Jarvis with “exit” or “quit”.
