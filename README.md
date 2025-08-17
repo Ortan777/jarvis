@@ -23,3 +23,16 @@ Adjust brightness and volume
  ## Exit :
  
  Shut down Jarvis with “exit” or “quit”.
+
+##  Installation
+
+### 1️⃣ Clone repository
+```bash
+git clone https://github.com/your-username/jarvis-assistant.git
+cd jarvis
+```
+### install requirements
+```bash
+pip install -r requirements.txt
+```
+
