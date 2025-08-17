@@ -26,12 +26,12 @@ Adjust brightness and volume
 
 ##  Installation
 
-### 1️⃣ Clone repository
+### 1️) Clone repository
 ```bash
-git clone https://github.com/your-username/jarvis-assistant.git
+git clone https://github.com/Ortan777/jarvis.git
 cd jarvis
 ```
-### install requirements
+### 2) install requirements
 ```bash
 pip install -r requirements.txt
 ```
